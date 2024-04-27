@@ -1,0 +1,34 @@
+services:
+  db:
+    image: postgres:12-bullseye
+    container_name: db
+    ports:
+      - "5434:5432"
+    env_file:
+      - .env
+    volumes:
+      - postgres_data:/var/lib/postgresql/data/
+    networks:
+      - challenge
+
+  backend:
+    build: .
+    container_name: backend
+    env_file:
+      - .env
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db
+    networks:
+      - challenge
+    volumes:
+      - .:/challenge
+
+volumes:
+  postgres_data:
+
+networks:
+  challenge:
+    name: challenge
+    external: true

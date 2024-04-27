@@ -1,0 +1,177 @@
+[
+  {
+    "model": "traffic_violations.Make",
+    "pk": "067328b3-c0b2-4251-8122-8e29d7e98614",
+    "fields": {
+      "name": "Saab",
+      "created_at": "2023-10-01T13:02:41Z",
+      "updated_at": "2023-08-12T07:15:33Z"
+    }
+  },
+  {
+    "model": "traffic_violations.Make",
+    "pk": "224dc79c-9cb5-4182-af62-ed56db3cbbeb",
+    "fields": {
+      "name": "Chevrolet",
+      "created_at": "2023-10-23T04:57:31Z",
+      "updated_at": "2023-11-16T00:49:43Z"
+    }
+  },
+  {
+    "model": "traffic_violations.Make",
+    "pk": "503c86b5-7a0e-4baa-bd6a-1d9fe04586ce",
+    "fields": {
+      "name": "Hyundai",
+      "created_at": "2024-02-16T13:27:29Z",
+      "updated_at": "2023-11-05T07:09:26Z"
+    }
+  },
+  {
+    "model": "traffic_violations.Make",
+    "pk": "31306cb8-8b36-4868-a683-aaa37f898385",
+    "fields": {
+      "name": "Hummer",
+      "created_at": "2023-04-30T01:05:29Z",
+      "updated_at": "2023-10-16T23:57:51Z"
+    }
+  },
+  {
+    "model": "traffic_violations.Make",
+    "pk": "37c16ec0-75f7-48cb-b008-14d11e9963ee",
+    "fields": {
+      "name": "Suzuki",
+      "created_at": "2024-01-22T03:31:56Z",
+      "updated_at": "2023-08-23T14:31:05Z"
+    }
+  },
+
+  {
+    "model": "traffic_violations.Make",
+    "pk": "fbd9d416-7839-4764-bb01-57eb35563104",
+    "fields": {
+      "name": "Mazda",
+      "created_at": "2024-02-03T22:16:01Z",
+      "updated_at": "2023-09-30T09:17:12Z"
+    }
+  },
+
+  {
+    "model": "traffic_violations.Make",
+    "pk": "c69c75a0-3893-4fce-ab44-dd7dfaa33a80",
+    "fields": {
+      "name": "Mercedes-Benz",
+      "created_at": "2024-04-21T16:14:58Z",
+      "updated_at": "2023-12-26T12:07:44Z"
+    }
+  },
+  {
+    "model": "traffic_violations.Make",
+    "pk": "1d10f0e6-7a13-4a9d-b86f-abd815e8c008",
+    "fields": {
+      "name": "Buick",
+      "created_at": "2024-02-05T05:20:17Z",
+      "updated_at": "2023-11-11T07:46:47Z"
+    }
+  },
+
+  {
+    "model": "traffic_violations.Make",
+    "pk": "512954d8-f1a0-47ef-bd3a-3c3950b26efc",
+    "fields": {
+      "name": "Mitsubishi",
+      "created_at": "2024-04-23T11:19:08Z",
+      "updated_at": "2023-07-27T04:48:14Z"
+    }
+  },
+  {
+    "model": "traffic_violations.Make",
+    "pk": "d1b62cf8-ce75-426f-99e4-6a8da150f903",
+    "fields": {
+      "name": "Ford",
+      "created_at": "2023-11-15T23:41:12Z",
+      "updated_at": "2023-09-06T00:37:22Z"
+    }
+  },
+  {
+    "model": "traffic_violations.Make",
+    "pk": "7cae230a-2f19-40c5-a263-e430cbdccbf4",
+    "fields": {
+      "name": "Lexus",
+      "created_at": "2023-05-08T21:48:51Z",
+      "updated_at": "2024-03-17T02:21:13Z"
+    }
+  },
+  {
+    "model": "traffic_violations.Make",
+    "pk": "7f80289f-6e85-4587-a8e3-b5137f848357",
+    "fields": {
+      "name": "Pontiac",
+      "created_at": "2023-10-13T11:36:22Z",
+      "updated_at": "2024-04-13T21:15:20Z"
+    }
+  },
+  {
+    "model": "traffic_violations.Make",
+    "pk": "26920459-8a66-4b6e-b5b7-69c5f2e6f2d5",
+    "fields": {
+      "name": "Volkswagen",
+      "created_at": "2023-08-16T10:15:59Z",
+      "updated_at": "2024-03-11T09:49:09Z"
+    }
+  },
+  {
+    "model": "traffic_violations.Make",
+    "pk": "3b95ead2-332c-4c54-9ae8-944d2a936800",
+    "fields": {
+      "name": "Lincoln",
+      "created_at": "2023-08-04T04:44:46Z",
+      "updated_at": "2024-01-29T07:11:49Z"
+    }
+  },
+  {
+    "model": "traffic_violations.Make",
+    "pk": "f88d3af7-613c-4cfe-adb1-801d1013e080",
+    "fields": {
+      "name": "Land Rover",
+      "created_at": "2024-04-13T07:38:14Z",
+      "updated_at": "2024-01-31T17:42:23Z"
+    }
+  },
+  {
+    "model": "traffic_violations.Make",
+    "pk": "a74a64c3-8153-43c9-b27c-8896df298e1e",
+    "fields": {
+      "name": "Honda",
+      "created_at": "2024-01-19T03:40:43Z",
+      "updated_at": "2024-04-06T07:27:05Z"
+    }
+  },
+  {
+    "model": "traffic_violations.Make",
+    "pk": "81c3ba9a-82cd-4a97-b1f9-a26a3004a555",
+    "fields": {
+      "name": "Dodge",
+      "created_at": "2023-11-17T00:18:27Z",
+      "updated_at": "2024-01-01T05:09:36Z"
+    }
+  },
+
+  {
+    "model": "traffic_violations.Make",
+    "pk": "40c743c4-3d9d-4f76-b1d1-96558628fe37",
+    "fields": {
+      "name": "Infiniti",
+      "created_at": "2023-11-18T09:50:43Z",
+      "updated_at": "2023-06-09T11:05:46Z"
+    }
+  },
+  {
+    "model": "traffic_violations.Make",
+    "pk": "098728b3-c1b3-4461-8122-8e29d7e89456",
+    "fields": {
+      "name": "Toyota",
+      "created_at": "2023-10-01T13:02:41Z",
+      "updated_at": "2023-08-12T07:15:33Z"
+    }
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "model": "traffic_violations.Person",
+    "pk": "d8ae0107-9d27-4292-963c-a64fe64f349f",
+    "fields": {
+      "first_name": "Dita",
+      "last_name": "Spendley",
+      "dni": "43956501",
+      "created_at": "2023-05-31T00:00:00Z",
+      "updated_at": "2023-05-31T00:00:00Z",
+      "email": "dspendley0@sakura.ne.jp"
+    }
+  },
+  {
+    "model": "traffic_violations.Person",
+    "pk": "4d9fc5b4-6020-48cc-bdac-1a1672deff06",
+    "fields": {
+      "first_name": "Abbott",
+      "last_name": "Kretschmer",
+      "dni": "92876953",
+      "created_at": "2023-05-31T00:00:00Z",
+      "updated_at": "2023-05-31T00:00:00Z",
+      "email": "akretschmer1@uol.com.br"
+    }
+  },
+  {
+    "model": "traffic_violations.Person",
+    "pk": "5cf5e986-0ece-4b03-acb9-c51ab57ccbd7",
+    "fields": {
+      "first_name": "Andee",
+      "last_name": "Thomazin",
+      "dni": "80089495",
+      "created_at": "2023-05-31T00:00:00Z",
+      "updated_at": "2023-05-31T00:00:00Z",
+      "email": "athomazin2@archive.org"
+    }
+  },
+  {
+    "model": "traffic_violations.Person",
+    "pk": "b3682402-28d1-4405-85a3-5429040bfe45",
+    "fields": {
+      "first_name": "Lewiss",
+      "last_name": "Gibby",
+      "dni": "56945011",
+      "created_at": "2023-05-31T00:00:00Z",
+      "updated_at": "2023-05-31T00:00:00Z",
+      "email": "lgibby3@latimes.com"
+    }
+  },
+  {
+    "model": "traffic_violations.Person",
+    "pk": "11d5fd27-bc31-4ff5-a7fc-a33bf20ee6ae",
+    "fields": {
+      "first_name": "Allix",
+      "last_name": "Epton",
+      "dni": "77195718",
+      "created_at": "2023-05-31T00:00:00Z",
+      "updated_at": "2023-05-31T00:00:00Z",
+      "email": "aepton4@columbia.edu"
+    }
+  },
+  {
+    "model": "traffic_violations.Person",
+    "pk": "95b37ed2-8a15-4514-900c-b66e37bc5d3b",
+    "fields": {
+      "first_name": "Bendicty",
+      "last_name": "Foy",
+      "dni": "95240653",
+      "created_at": "2023-05-31T00:00:00Z",
+      "updated_at": "2023-05-31T00:00:00Z",
+      "email": "bfoy5@pen.io"
+    }
+  },
+  {
+    "model": "traffic_violations.Person",
+    "pk": "555b7438-553c-47f3-847d-81af6ee37fab",
+    "fields": {
+      "first_name": "Petronilla",
+      "last_name": "Ploughwright",
+      "dni": "54461002",
+      "created_at": "2023-05-31T00:00:00Z",
+      "updated_at": "2023-05-31T00:00:00Z",
+      "email": "pploughwright6@ed.gov"
+    }
+  },
+  {
+    "model": "traffic_violations.Person",
+    "pk": "0873b8ac-4814-4979-a86d-05de623f6770",
+    "fields": {
+      "first_name": "Aliza",
+      "last_name": "Prayer",
+      "dni": "73320302",
+      "created_at": "2023-05-31T00:00:00Z",
+      "updated_at": "2023-05-31T00:00:00Z",
+      "email": "aprayer7@engadget.com"
+    }
+  },
+  {
+    "model": "traffic_violations.Person",
+    "pk": "3cb81001-62ac-49b8-bd58-4d06b9225784",
+    "fields": {
+      "first_name": "Bale",
+      "last_name": "Badder",
+      "dni": "71199786",
+      "created_at": "2023-05-31T00:00:00Z",
+      "updated_at": "2023-05-31T00:00:00Z",
+      "email": "bbadder8@tamu.edu"
+    }
+  },
+  {
+    "model": "traffic_violations.Person",
+    "pk": "3b49d0ce-8332-45d3-b485-dd8ef76083ae",
+    "fields": {
+      "first_name": "Phil",
+      "last_name": "Wise",
+      "dni": "32026510",
+      "created_at": "2023-05-31T00:00:00Z",
+      "updated_at": "2023-05-31T00:00:00Z",
+      "email": "pwise9@dagondesign.com"
+    }
+  },
+  {
+    "model": "traffic_violations.Person",
+    "pk": "25ab5219-b319-4acc-a109-fc531dc1ae7f",
+    "fields": {
+      "first_name": "Mateo",
+      "last_name": "Inston",
+      "dni": "31023817",
+      "created_at": "2023-05-31T00:00:00Z",
+      "updated_at": "2023-05-31T00:00:00Z",
+      "email": "minstona@admin.ch"
+    }
+  },
+  {
+    "model": "traffic_violations.Person",
+    "pk": "8b640f11-9d19-4670-9042-a06f1b302fbb",
+    "fields": {
+      "first_name": "Feliks",
+      "last_name": "Harford",
+      "dni": "87325900",
+      "created_at": "2023-05-31T00:00:00Z",
+      "updated_at": "2023-05-31T00:00:00Z",
+      "email": "fharfordb@example.com"
+    }
+  },
+  {
+    "model": "traffic_violations.Person",
+    "pk": "ab2def31-0441-4e7d-929c-5b24595a337c",
+    "fields": {
+      "first_name": "Leicester",
+      "last_name": "Finnan",
+      "dni": "60611822",
+      "created_at": "2023-05-31T00:00:00Z",
+      "updated_at": "2023-05-31T00:00:00Z",
+      "email": "lfinnanc@rakuten.co.jp"
+    }
+  },
+  {
+    "model": "traffic_violations.Person",
+    "pk": "9cc0fb87-a69f-41e4-8faa-8c0045ddb309",
+    "fields": {
+      "first_name": "Jane",
+      "last_name": "Cattermoul",
+      "dni": "16195395",
+      "created_at": "2023-05-31T00:00:00Z",
+      "updated_at": "2023-05-31T00:00:00Z",
+      "email": "jcattermould@imdb.com"
+    }
+  },
+  {
+    "model": "traffic_violations.Person",
+    "pk": "b25c1672-e53b-48c5-8a97-942cb1f46830",
+    "fields": {
+      "first_name": "Jane",
+      "last_name": "Cattermoul",
+      "dni": "36195393",
+      "created_at": "2023-05-31T00:00:00Z",
+      "updated_at": "2023-05-31T00:00:00Z",
+      "email": "jatterm@imdb.com"
+    }
+  }
+]
