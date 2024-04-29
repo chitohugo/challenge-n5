@@ -13,6 +13,7 @@ services:
 
   backend:
     build: .
+    image: chitohugo/challenge-n5:1.2
     container_name: backend
     env_file:
       - .env
